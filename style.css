@@ -1,0 +1,16 @@
+body {
+  background-color: black;
+}
+.óra {
+  font-size: 100px;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-decoration: underline;
+  font-weight: bolder;
+  border: solid white 5px;
+  padding: 20px;
+  border-radius: 10px;
+}
